@@ -44,7 +44,7 @@ Select a partner and assign the roles of Repository Owner (RO) and Editing Teamm
     **RO & ET Tasks**:
     - In GitHub Desktop, click Repository > View on GitHub.
     - Click Add a README.
-    - Write a description of this lab and format the text using Markdown syntax.
+    - Write a description of this lab and format the text using Markdown syntax. Here is my change.
     - Commit the changes directly to the `main` branch.
 
 5. Adding a New Function and Test
@@ -182,3 +182,4 @@ ________________________________________
 Submission
 
 Submit the link to your forked GitHub repository on Canvas. Each partner should submit individually.
+
